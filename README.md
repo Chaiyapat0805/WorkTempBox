@@ -3,5 +3,6 @@
 <p>โจทย์การทำงาน<p>
 <p><p>  
 <img src="ref/pictest1.png" width="1280" height="720">
+<h2>อุปกรณ์ที่ใช้</h2>
 
 
