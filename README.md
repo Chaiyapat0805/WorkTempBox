@@ -73,7 +73,7 @@
 <h2> ตัวอย่างโมเดลชิ้นงาน </h2>
 <p> ภาพรวมชิ้นงาน </p>
 <img src="ref/finalModel.png" width="850" height="450">
-<p> ภาพรวมชิ้นงานขวา </p>
+<p> ภาพรวมชิ้นงานด้านขวา </p>
 <img src="ref/model1.png" width="850" height="450">
 <p> ภาพรวมชิ้นงานด้านบน </p>
 <img src="ref/model2.png" width="850" height="450">
