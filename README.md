@@ -40,11 +40,16 @@
 <img src="ref/Relay.png" width="400" height="300">
 <p> ขนาด 4.2 x 2.6 x 1.8 cm </p>
 <a href="https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB"> Cilck go to link ref </a>
-
-  
+ 
 <p></p>
 <p> ขั้วต่อไปเลี้ยงแบบกลม </p>
 <img src="ref/option.webp" width="400" height="300">
 <p> ขนาด 3.7 mm </p>
 <a href="https://www.lazada.co.th/products/js-910b-37-1-i899960679-s1817174327.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!1817174327!135253431&gclid=Cj0KCQjwssyJBhDXARIsAK98ITR1MCnF94tveQ1Qvz00456ZXcG89rLSUP0R-mrSYsodgyDPuh--RJ4aAidCEALw_wcB"> Cilck go to link ref </a>
+
+<p></p>
+<p> น็อต M2 - M3 </p>
+<img src="ref/nut.jpg" width="400" height="300">
+<p> ขนาด M2 1.5 mm M3 2.5 mm </p>
+<a href="http://www.dojogarden.com/index.php?id_product=84&controller=product"> Cilck go to link ref </a>
 
