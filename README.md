@@ -77,3 +77,9 @@
 <img src="ref/model1.png" width="850" height="450">
 <p> ภาพรวมชิ้นงานด้านบน </p>
 <img src="ref/model2.png" width="850" height="450">
+<p> ภาพรวมชิ้นงานด้านซ้าย </p>
+<img src="ref/model4.png" width="850" height="450">
+<p> ภาพรวมชิ้นงานด้านหน้า </p>
+<img src="ref/model3.png" width="850" height="450">
+<p> ภาพรวมชิ้นงานด้านล่าง </p>
+<img src="ref/model5.png" width="850" height="450">
