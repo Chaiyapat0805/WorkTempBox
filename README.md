@@ -2,7 +2,7 @@
 
 <p>โจทย์การทำงาน<p>
 <p><p>  
-<img src="ref/pictest1.png" width="400" height="300">
+<img src="ref/pictest1.png" width="850" height="450">
   
 <h2>อุปกรณ์ที่ใช้</h2>
 
