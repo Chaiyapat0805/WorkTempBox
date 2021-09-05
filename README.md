@@ -1,5 +1,5 @@
 <h1>TempHumidBox</h1>
-<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์</p>
+
 <p>โจทย์การทำงาน<p>
 <p><p>  
 <img src="ref/pictest1.png" width="400" height="300">
@@ -50,6 +50,8 @@
 <p></p>
 <p> น็อต M2 - M3 </p>
 <img src="ref/nut.jpg" width="400" height="300">
-<p> ขนาด M2 1.5 mm M3 2.5 mm </p>
+<p> ขนาด M2 1.5 mm - M3 2.5 mm </p>
 <a href="http://www.dojogarden.com/index.php?id_product=84&controller=product"> Cilck go to link ref </a>
 
+<h2> โมเดลชิ้นงาน </h2>
+<p> ตัวอย่างการสร้างกล่องใส่อุปกรณ์ </p>
