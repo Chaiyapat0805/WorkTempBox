@@ -36,12 +36,6 @@
 <a href="https://shopee.co.th/Queen-2pcs-Big-Button-Button-Module-Big-Key-Button-Light-Touch-Switch-12mmx12mm-Hat-Output-Module-For-Arduino-i.22190646.6093923062?gclid=Cj0KCQjwssyJBhDXARIsAK98ITTCR3zka0bBjTx35GNgxiNoT6Vb1rHQqrx8VbwHBM8i88X5cqBluf8aAmCmEALw_wcB"> Cilck go to link ref </a>
 
 <p></p>
-<p> ชุดเปิด/ปิดไฟ 1 ช่องทาง (1 Ch. Relay Module) </p>
-<img src="ref/Relay.png" width="400" height="300">
-<p> ขนาด : 4.2 x 2.6 x 1.8 cm </p>
-<a href="https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB"> Cilck go to link ref </a>
- 
-<p></p>
 <p> ขั้วต่อไปเลี้ยงแบบกลม </p>
 <img src="ref/option.webp" width="400" height="300">
 <p> ขนาด : 3.7 mm </p>
