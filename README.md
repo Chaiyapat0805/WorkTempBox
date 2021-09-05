@@ -5,6 +5,7 @@
 <img src="ref/pictest1.png" width="400" height="300">
   
 <h2>อุปกรณ์ที่ใช้</h2>
+
 <p> Breadboard สำหรับใส่ NodeMCU v.2 (ESP8266) </p>
 <img src="ref/bb.jpg" width="400" height="300">
 <p>ขนาด 46 mm x 35 mm</p>
@@ -19,12 +20,31 @@
 <p></p>
 <p> ชุดเปิด/ปิดไฟ 1 ช่องทาง (1 Ch. Relay Module) </p>
 <img src="ref/Relay.png" width="400" height="300">
-<p> ขนาด 28.2 mm x 13.1 mm x 10 mm </p>
+<p> ขนาด 4.2 x 2.6 x 1.8 cm </p>
 <a href="https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB"> Cilck go to link ref </a>
 
 <p></p>
 <p> หลอดไฟแสดงผล (LED) ขนาด 5mm </p>
 <img src="ref/led.png" width="400" height="300">
-<p> ขนาด 28.2 mm x 13.1 mm x 10 mm </p>
+<p> ขนาด 5mm </p>
 <a href="https://www.lazada.co.th/products/makeeasy-led-5mm-5-led-led-i2157454579-s7186560944.html?spm=a2o4m.searchlist.list.72.49e55d7bAi9KcA&search=1"> Cilck go to link ref </a>
+
+<p></p>
+<p> ปุ่มกด (Push Switch) </p>
+<img src="ref/button.png" width="400" height="300">
+<p> ขนาด 12 mm x 12 mm </p>
+<a href="https://shopee.co.th/Queen-2pcs-Big-Button-Button-Module-Big-Key-Button-Light-Touch-Switch-12mmx12mm-Hat-Output-Module-For-Arduino-i.22190646.6093923062?gclid=Cj0KCQjwssyJBhDXARIsAK98ITTCR3zka0bBjTx35GNgxiNoT6Vb1rHQqrx8VbwHBM8i88X5cqBluf8aAmCmEALw_wcB"> Cilck go to link ref </a>
+
+<p></p>
+<p> ชุดเปิด/ปิดไฟ 1 ช่องทาง (1 Ch. Relay Module) </p>
+<img src="ref/Relay.png" width="400" height="300">
+<p> ขนาด 4.2 x 2.6 x 1.8 cm </p>
+<a href="https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB"> Cilck go to link ref </a>
+
+  
+<p></p>
+<p> ขั้วต่อไปเลี้ยงแบบกลม </p>
+<img src="ref/option.webp" width="400" height="300">
+<p> ขนาด 3.7 mm </p>
+<a href="https://www.lazada.co.th/products/js-910b-37-1-i899960679-s1817174327.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!1817174327!135253431&gclid=Cj0KCQjwssyJBhDXARIsAK98ITR1MCnF94tveQ1Qvz00456ZXcG89rLSUP0R-mrSYsodgyDPuh--RJ4aAidCEALw_wcB"> Cilck go to link ref </a>
 
