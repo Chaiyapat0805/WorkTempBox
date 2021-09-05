@@ -69,3 +69,11 @@
 <p> ขนาดของรูน็อตเชื่อมRelay : 1.5 mm </p>
 <p> ขนาดของรูน็อตเชื่อมกล่อง : 1.5 mm </p>
 <p> ขนาดของรูน็อตเชื่อมผนัง : 2.5 mm </p>
+
+<h2> ตัวอย่างโมเดลชิ้นงาน </h2>
+<p> ภาพรวม </p>
+<img src="ref/finalModel.png" width="850" height="450">
+<p> ภาพรวม </p>
+<img src="ref/model1.png" width="850" height="450">
+<p> ภาพรวม </p>
+<img src="ref/model2.png" width="850" height="450">
